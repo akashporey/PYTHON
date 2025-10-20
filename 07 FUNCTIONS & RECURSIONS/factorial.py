@@ -5,3 +5,5 @@ def factorial(n):
 
 n=int(input("Enter a number: "))
 print(f"Factorial of this number is: {factorial(n)}")
+
+""
