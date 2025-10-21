@@ -15,4 +15,3 @@ def greet(name,ending="Thank You"): #default ending if not mention later
 
 greet("Akash", "Thanks")
 
-""
