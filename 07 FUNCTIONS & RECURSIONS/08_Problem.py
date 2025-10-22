@@ -10,3 +10,5 @@ def mul_table(n):
 
 
 mul_table(int(input("Enter a number: ")))
+
+""
