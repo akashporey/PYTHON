@@ -17,3 +17,4 @@ num3=int(input("Enter a number: "))
 print("Greatest of three numbers is: ", end=" ")
 Greatest(num1 , num2, num3)
 
+""
