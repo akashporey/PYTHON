@@ -7,4 +7,3 @@ def convert(C):
 C=int(input("Enter temp in Celsius: "))
 print(f"Temp in Fahrenheit: {convert(C)}")
 
-""
