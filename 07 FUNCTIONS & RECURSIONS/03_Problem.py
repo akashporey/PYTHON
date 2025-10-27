@@ -6,4 +6,3 @@ print("I am Akash")
 print("HI, ", end="")
 print("I am Akash")
 
-""
