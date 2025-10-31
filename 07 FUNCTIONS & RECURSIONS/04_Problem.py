@@ -6,3 +6,4 @@ def sum(n) :
     return sum(n-1) + n
 
 print(sum(int(input("Enter a number: "))))
+""
