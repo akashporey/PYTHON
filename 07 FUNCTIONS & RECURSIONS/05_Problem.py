@@ -10,4 +10,3 @@ def pattern(s) :
     pattern(s-1)
 
 pattern(int(input("Number of lines : ")))
-""
