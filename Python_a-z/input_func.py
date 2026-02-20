@@ -1,0 +1,15 @@
+## Demonstration about input function
+
+name = input("Enter the name: ")
+x= input("Enter the x: ")
+z= input("Enter the value of z: ")
+r = input()
+print("     ")
+print(name)
+print(x)
+print(z)
+print(r)
+print(type(name))
+print(type(x))
+print(type(z))
+print(type(r))
