@@ -1,3 +1,4 @@
-s=5
-x=((3/.072)/2)*s**2
+## Complex Literals
+
+x=complex()
 print(x)
