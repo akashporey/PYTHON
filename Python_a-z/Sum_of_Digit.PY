@@ -1,4 +1,4 @@
-
+## Sum of each digits of the number
 
 num= int(input("Entyer the number: "))
 temp=num
