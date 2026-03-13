@@ -1,4 +1,4 @@
-
+## Multiplication of each digit of the number
 
 num= int(input("Entyer the number: "))
 temp=num
