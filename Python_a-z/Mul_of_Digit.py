@@ -11,4 +11,3 @@ while(temp!=0):
     temp=temp//10
 print(f"The digits sum of {num} is: {sum}")
 print(f"The digits of multiplication of {num} is: {mul}")
-
